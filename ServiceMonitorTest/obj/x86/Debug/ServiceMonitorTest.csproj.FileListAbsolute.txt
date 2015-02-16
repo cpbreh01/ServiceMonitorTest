@@ -1,0 +1,5 @@
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\ServiceMonitorTest\ServiceMonitorTest\bin\Debug\ServiceMonitorTest.exe.config
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\ServiceMonitorTest\ServiceMonitorTest\bin\Debug\ServiceMonitorTest.exe
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\ServiceMonitorTest\ServiceMonitorTest\bin\Debug\ServiceMonitorTest.pdb
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\ServiceMonitorTest\ServiceMonitorTest\obj\x86\Debug\ServiceMonitorTest.exe
+C:\Users\Optimus\Documents\Visual Studio 2010\Projects\ServiceMonitorTest\ServiceMonitorTest\obj\x86\Debug\ServiceMonitorTest.pdb
